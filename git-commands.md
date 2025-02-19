@@ -4,8 +4,8 @@ The `git commit --amend` command allows you to modify the most recent commit. It
 
 **What It Does**
 
-- **Edit Commit Message**: If you realize there’s a typo or want to improve the commit message, git commit --amend lets you edit the commit message of the latest commit.
-- **Include New Changes**: If you’ve forgotten to add some files or need to make changes to the files you just committed, you can stage those changes and then use git commit --amend to include them in the last commit.
+- **Edit Commit Message**: If you realize there’s a typo or want to improve the commit message, `git commit --amend` lets you edit the commit message of the latest commit.
+- **Include New Changes**: If you’ve forgotten to add some files or need to make changes to the files you just committed, you can stage those changes and then use `git commit --amend` to include them in the last commit.
 
 **How It Works**
 
